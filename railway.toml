@@ -1,0 +1,2 @@
+[volumes]
+qdrant_data = "/qdrant/storage"
